@@ -2,7 +2,7 @@
 
 [![Status](https://github-readme-stats.vercel.app/api?username=ricochhet&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricochhet&count_private=true&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdn.discordapp.com/emojis/593994064840491038.png?v=1" height=185/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricochhet&count_private=true&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/>
 
