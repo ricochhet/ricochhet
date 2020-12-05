@@ -39,3 +39,5 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </details>
+
+<img src="https://cdn.discordapp.com/attachments/727348793275711538/784827191963287552/babyyoda.png" height=128/>
