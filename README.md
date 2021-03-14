@@ -1,11 +1,3 @@
-## <img src="https://cdn.discordapp.com/emojis/783855377586323456.gif?v=1" height=32/> I program things I guess <img src="https://cdn.discordapp.com/emojis/783855377586323456.gif?v=1" height=32/>
-
-[![Status](https://github-readme-stats.vercel.app/api?username=ricochhet&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://cdn.discordapp.com/emojis/593994064840491038.png?v=1" height=185/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricochhet&count_private=true&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/> <img src="https://cdn.discordapp.com/emojis/784605982105665577.png?v=1" height=32/>
-
 <details>
   <summary>Recent GitHub Activity</summary>
 
@@ -20,7 +12,7 @@
 </details>
 
 <details>
-    <summary>Languages <img src="https://cdn.discordapp.com/emojis/763467510787211366.gif?v=1" height=32/></summary>
+    <summary>Languages</summary>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,14 +22,12 @@
 </details>
 
 <details>
-    <summary>Frameworks <img src="https://cdn.discordapp.com/emojis/763467510787211366.gif?v=1" height=32/></summary>
+    <summary>Frameworks</summary>
   	<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 </details>
 
 <details>
-    <summary>Version Control <img src="https://cdn.discordapp.com/emojis/763467510787211366.gif?v=1" height=32/></summary>
+    <summary>Version Control</summary>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </details>
-
-<img src="https://cdn.discordapp.com/attachments/727348793275711538/784827191963287552/babyyoda.png" height=128/>
